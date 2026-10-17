@@ -1,0 +1,5 @@
+# Backup copies and temporary artifacts
+*_BACKUP.docx
+*_MASTER_COPY.docx
+0.26.0
+*.log
